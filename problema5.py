@@ -5,6 +5,7 @@
 # Autoría propia
 
 
+
 def calcular_jornada(horas):
 
     total_horas = sum(horas)
@@ -17,7 +18,7 @@ def calcular_jornada(horas):
     return total_horas, clasificacion
 
 
-
+#Lista
 recursos = []
 
 
