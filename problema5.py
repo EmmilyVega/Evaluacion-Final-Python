@@ -1,7 +1,6 @@
-# Trabajo final de fundamentos de programación
-# Emmily Daniela Vega Rincón
-# Fase 5 - Evaluación final
 # Fundamentos de programación
+# Fase 5 - Evaluación final
+# Emmily Daniela Vega Rincón
 # Autoría propia
 
 
@@ -18,7 +17,7 @@ def calcular_jornada(horas):
     return total_horas, clasificacion
 
 
-#Lista
+
 recursos = []
 
 
